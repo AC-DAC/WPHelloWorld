@@ -3,7 +3,7 @@
 Plugin Name: Hello World Popup
 Description: Displays a Hello World popup message when activated
 Version: 1.0
-Author: Your Name
+Author: Alex Chuc
 */
 
 // Prevent direct file access
